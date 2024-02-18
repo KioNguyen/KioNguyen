@@ -10,7 +10,7 @@ My Tech Stack:
 - Cloud with AWS
 - Saleforce 
 
-![image](https://github.com/KioNguyen/KioNguyen/assets/35483266/01c5786a-af60-4e99-9b13-1911af9bdbd9)
+
 
 
 ![Cover (2)](https://user-images.githubusercontent.com/8872447/156371646-3998f1dd-0344-4aab-8938-bf76ea05a77c.png)
